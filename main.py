@@ -39,7 +39,7 @@ from telegram.ext import (
 import datetime
 import core
 
-TELEGRAM_BOT_TOKEN = ""  # test token
+TELEGRAM_BOT_TOKEN = "7918518715:AAGcTEoqUHJYNy9gwzP-4OZjS8W_Vnu9HRU"  # test token
 
 (MENU_STATE,
  GAME_STATE,
